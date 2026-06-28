@@ -31,7 +31,6 @@
 - [Repository Structure](#-repository-structure)
 - [How to Run](#-how-to-run)
 - [Deliverables](#-deliverables)
-- [Author](#-author)
 
 ---
 
@@ -395,13 +394,7 @@ Retail-Analytics-Dashboard
 │
 ├── SQL
 │   ├── Database.sql
-│   ├── Tables.sql
-│   ├── Insert_Data.sql
-│   ├── SQL_Views.sql
-│   ├── Business_Queries.sql
 │
-├── SQL Backup
-│   └── RetailAnalytics.bak
 │
 ├── Power BI
 │   └── Retail Analytics Dashboard.pbix
