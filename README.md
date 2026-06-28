@@ -242,9 +242,11 @@ More than **30 DAX measures** were created, including:
 
 ## 🏠 Home
 
-- Dashboard Navigation
-- Project Overview
-- Quick Access Buttons
+The Home page acts as the navigation hub of the report, allowing users to quickly access each analytical section.
+
+<p align="center">
+  <img src="images/home.png" width="900">
+</p>
 
 ---
 
