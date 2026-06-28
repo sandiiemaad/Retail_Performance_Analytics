@@ -429,28 +429,4 @@ This repository contains:
 - ✅ Documentation
 - ✅ README
 
----
 
-# 👩‍💻 Author
-
-**Sandy Emad**
-
-Computer Science & Artificial Intelligence Student
-
-**Skills**
-
-- SQL Server
-- Power BI
-- DAX
-- T-SQL
-- Data Modeling
-- Data Visualization
-- Business Intelligence
-
-📧 Feel free to connect with me on LinkedIn and GitHub.
-
----
-
-# 🙏 Acknowledgements
-
-This project was completed as the Graduation Project for the **Route Academy Data Analytics Diploma**. It demonstrates practical skills in SQL Server, Power BI, DAX, data modeling, and business intelligence by transforming raw retail data into actionable insights for decision-makers.
