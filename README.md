@@ -252,6 +252,10 @@ The Home page acts as the navigation hub of the report, allowing users to quickl
 
 ## 📈 Executive Overview
 
+Provides a high-level summary of the company's overall performance through KPI cards and executive visualizations.
+
+Features:
+
 - Total Sales
 - Net Revenue
 - Gross Profit
@@ -261,20 +265,35 @@ The Home page acts as the navigation hub of the report, allowing users to quickl
 - Revenue by Country
 - Year-over-Year Growth
 
+<p align="center">
+  <img src="images/executive-overview.png" width="900">
+</p>
 ---
 
 ## 🛒 Sales & Products
 
+Analyzes product and store performance.
+
+Features:
+
 - Best Selling Products
 - Top 10 Products
 - Revenue by Store Type
-- Gross Profit by Store Type
+- Gross Profit Share
 - Units Sold
 - Average Stock Lag
+
+<p align="center">
+  <img src="images/sales-products.png" width="900">
+</p>
 
 ---
 
 ## 👥 Customers & Regional Insights
+
+Provides customer segmentation and regional performance analysis.
+
+Features:
 
 - Revenue by Income
 - Revenue by Occupation
@@ -283,9 +302,17 @@ The Home page acts as the navigation hub of the report, allowing users to quickl
 - Member Card Analysis
 - Top Customers
 
+<p align="center">
+  <img src="images/customers-regions.png" width="900">
+</p>
+
 ---
 
 ## 🔄 Returns Analysis
+
+Analyzes returned products and their impact on revenue.
+
+Features:
 
 - Total Returns
 - Revenue Lost
@@ -293,6 +320,10 @@ The Home page acts as the navigation hub of the report, allowing users to quickl
 - Monthly Return Trend
 - Return Rate by Store
 - Top Returned Products
+
+<p align="center">
+  <img src="images/returns-analysis.png" width="900">
+</p>
 
 ---
 
