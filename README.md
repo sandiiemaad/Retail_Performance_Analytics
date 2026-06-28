@@ -138,10 +138,11 @@ The project follows a **Galaxy Schema** consisting of:
 - RegionDim
 - DateDim
 
-> **Add your Galaxy Schema image here**
 
-```markdown
-![Galaxy Schema](images/galaxy-schema.png)
+```md
+<p align="center">
+  <img src="images/galaxy-schema.png" width="900">
+</p>
 ```
 
 ---
